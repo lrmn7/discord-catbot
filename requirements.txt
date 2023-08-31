@@ -1,0 +1,7 @@
+py-cord
+rich
+requests
+prettytable
+rcat
+python-dotenv
+pytz

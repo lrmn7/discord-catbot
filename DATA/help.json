@@ -1,0 +1,7 @@
+{
+    "help":   "Shows this message",
+    "about":  "Shows some information about myself",
+    "cat":    "Sends an image of a cat",
+    "fact":   "Tells a fun fact about cats",
+    "invite": "Add me to your server"
+}
